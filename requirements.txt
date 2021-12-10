@@ -1,0 +1,7 @@
+django==3.2.9
+django-cors-headers==3.10.0
+djangorestframework==3.12.4
+django-environ==0.8.1
+pillow==8.4.0
+django-ckeditor==6.2.0
+PyJWT==2.1.0
